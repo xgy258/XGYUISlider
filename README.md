@@ -1,0 +1,2 @@
+# XGYUISlider
+XGYUISlider继承UISlider,并实现UISlider的可点击事件，分步样式，并实时显示UISlider的value
